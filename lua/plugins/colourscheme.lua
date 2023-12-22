@@ -1,8 +1,7 @@
 if true then
   return {
-    { "ellisonleao/gruvbox.nvim", opts = {
-      transparent_mode = true,
-    } },
+    { "ellisonleao/gruvbox.nvim" },
+    { "xiyaowong/transparent.nvim" },
 
     {
       "LazyVim/LazyVim",
